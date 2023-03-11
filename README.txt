@@ -13,6 +13,6 @@ ex. If on the home page i have a post with a title Day 1
 
 *the post title does not have to match exactly as it uses
 lowdash to make format the search input when searching for
-the post, in the example given about the user could also type
+the post, in the example given above the user could also type
 localhost:3000/posts/day 1 
 and it would still find the post
